@@ -1,4 +1,4 @@
-```markdown
+```
 # 🎬 Movie Review Sentiment Analysis
 
 Unlock insights from audiences with this cutting-edge project: predict the sentiment—positive or negative—of movie reviews using Natural Language Processing and Machine Learning.
